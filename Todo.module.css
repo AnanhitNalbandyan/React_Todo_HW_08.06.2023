@@ -1,0 +1,17 @@
+.done{
+    text-decoration: line-through;
+    color: green;
+}
+
+.waiting{
+    gap:20px;
+    color: red;
+}
+
+button{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+label{
+    margin-right: 10px;
+}
